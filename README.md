@@ -2,7 +2,7 @@
 ## Overview
 リポジトリ運用方法のサンプル
 
-## Example
+## README サンプル
 Siv3Dで作ったシューティングゲームのREADMEの書き方
 ```
 ## Overview
@@ -21,3 +21,7 @@ Siv3Dで作ったシューティングゲームのREADMEの書き方
 - [創造のための C++ フレームワーク Siv3D
 ](https://siv3d.github.io/ja-jp/)
 ```
+
+## コーディング規約の書き方
+ページ上部の `Wiki` のページに書きましょう。
+Markdown形式をサポートしています。
